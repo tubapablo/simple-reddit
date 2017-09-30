@@ -1,4 +1,7 @@
 #! /usr/bin/env python3
+'''
+Print the titles of the top 20 shower thoughts from reddit.
+'''
 import requests
 
 request_headers = {
