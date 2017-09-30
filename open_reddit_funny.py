@@ -1,4 +1,7 @@
 #! /usr/bin/env python3
+'''
+Open the top 5 images on the funny subreddit in a browser.
+'''
 import requests
 import json
 import webbrowser
