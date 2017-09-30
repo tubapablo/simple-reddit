@@ -1,4 +1,7 @@
 # simple-reddit
 scripts to query reddit api
-mardokai
 
+widor1@morgan.edu
+
+mardokai
+\
